@@ -1,0 +1,49 @@
+list verbs
+
+want = quere
+need = necesitar
+like = gustar
+have = tener
+love = amar
+hate = odiar
+
+
+buy = comprar
+come = venir, llegar
+go = ir
+stay = quedarse o permanecer
+get = obtener, conseguir, lograr
+take = tomar,
+give = dar
+keep = mantener o seguir
+put = poner
+make = hacer
+do = hacer
+say = decir
+speak = hablar
+see = ver
+eat = comer
+drink = beber
+
+----
+
+i want buy ~ quiero comprar
+do you want to dances = quieres bailar?
+i need to buy? = necesito comprar?
+
+want to go ~ quiero ir
+i like to go to parties = me gusta ir a fiestas
+i have to go ~ tengo que ir
+i love to go to parties ~ me encanta ir a fiestas
+i hate to go to parties ~ odio ir a fiestas
+i want to go to parties ~ quiero ir a fiestas
+i want to stay ~ quiero quedarme
+i like you = me gusta
+do you have to go? ~ te tienes que ir?
+do you need to buy a car? ~ necesitas compar un carro?
+
+i do not like to go to parties ~ no me gusta i a fiestas
+i do not need to eat now ~ no necesito comer ahora
+don't you have to go now? ~ no te tienes que ir ahora?
+
+do not go ~ no te vayas

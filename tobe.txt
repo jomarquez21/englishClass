@@ -1,0 +1,41 @@
+verb Be         | Present (ser / estar)
+ am
+ is
+ are
+
+
+Presente
+
+Spanish       | Ser      | Estar     | Spanish
+
+ Yo             soy        estoy       I am
+ Tu             eres       estas       You are
+ El             es         esta        He is
+ Ella           es         esta        She is
+ Eso            es         esta        it i
+ Nosotros       somos      estamos     We are
+ ustedes        son        estan       You are
+ Ellos          son        estan       They are
+
+Pasado
+
+Spanish       | Ser            | Estar                | Spanish
+
+ Yo             fui/era          estuve/estaba           I was
+ Tu             fuiste/eras      estuviste/estaba        You was
+ El             fue/era          estuvo/estaba           He was
+ Ella           fue/era          estuvo/estaba           She was
+ Eso            fue/era          estuvo/estaba           It was
+ Nosotros       fuimos/eramos    estuvimos/estabamos     We were
+ ustedes        fueron/eran      estuvieron/estaban      You were
+ Ellos          fueron/eran      estuvieron/estaban      They were
+
+
+I am
+
+I am a teacher        => ser
+I am here             => estar
+
+I am not a teacher
+
+Am I a teacher?

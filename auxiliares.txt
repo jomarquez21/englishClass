@@ -1,0 +1,36 @@
+
+
+Be        = am | is | are | was | were
+
+Do        = do | does | did
+
+have      = have | has | had
+
+Modal     = can | may | might | could | will | shall | should | ougth to | must | would
+
+will
+
+
+
+Be
+
+Present continuous =   am, is, are
+
+You are watching this video
+
+Past    continuous =   was, were 
+
+You were watching this video last night
+
+Future  continuous = will be
+
+You will be watching this video by tomorrow
+
+
+Do
+
+Present Simple = Do - don't | does - Doesn't
+
+I do speak english
+
+Past    Simple = did | did not

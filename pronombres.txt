@@ -1,0 +1,29 @@
+Pronombre       | pasado    | presente        | particio pasado
+ I                 was         am                been
+ you               were        are               been
+ she he it         was         is                been
+ we you they       were        are               been
+
+Afirmativo
+I am a teacher              = Soy un maestro
+I am teaching english       = Estoy ense#ando ingles
+I was a teacher             = Yo era un maestro
+I was teaching english      = Yo estaba ense#ando ingles
+I been a teacher            = he sido un maestro
+I been teaching english     = he estado ense#ando ingles
+
+Negativo
+I am not a teacher          = no soy un maestro
+I am not teaching english   = no estoy ense#ando ingles
+I was not a teacher         = no era un maestro
+I was not teaching english  = no estaba ense#ando ingles
+I been a teacher            = no he sido un maestro
+I been teaching english     = no he estado ense#ando ingles
+
+Interrogativo
+Am I a teacher?             = eres una maestro?
+Am I teaching english?      = estas ense#ando ingles?
+was I a teacher?            = era un maestro?
+was I teaching english?     = estaba ense#ando ingles?
+been I a teacher?           = he sido un maestro?
+been I teaching english     = he estado ense#ando ingles?
